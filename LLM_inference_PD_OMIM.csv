@@ -1,0 +1,1085 @@
+id1,id2,relationship,score,openai_response,medllama_response,medllama_score,medllama_relationship,Symbol,vq*,omim,causal/total,omim_binary
+10018,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,BCL2L11,0.0,False,0.0,0
+100359403,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,PARK16,0.0,False,0.0,0
+10059,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,DNM1L,0.0,False,0.0,0
+10159,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,ATP6AP2,0.0,True,0.0,1
+1020,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,CDK5,0.0,False,0.0,0
+10376,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,TUBA1B,0.0,False,0.0,0
+104015,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Synj1,0.0,False,0.0,0
+104354,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Rep1,0.0,False,0.0,0
+10452,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,TOMM40,0.0,False,0.0,0
+105675,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Ppif,0.0,False,0.0,0
+10769,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,PLK2,0.0,False,0.0,0
+10935,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,PRDX3,0.0,False,0.0,0
+10981,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,RAB32,1.0,True,0.5,1
+11124,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,FAF1,0.0,False,0.0,0
+11140,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.5}",0.5,Causal,CDC37,0.0,False,0.0,0
+1121,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,CHM,0.0,False,0.0,0
+112935892,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,LINC02605,0.0,False,0.0,0
+11315,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"":""Causal"",""score"":0.0}",0.0,Causal,PARK7,0.8298308235205627,True,0.0625,1
+114548,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,NLRP3,0.0,False,0.0,0
+11651,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,Akt1,0.0,False,0.0,0
+11820,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,App,0.0,False,0.0,0
+120892,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"":""causal"",""score"":0.0}",0.0,causal,LRRK2,0.9609419856160524,True,0.2054794520547945,1
+12367,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,Casp3,0.0,False,0.0,0
+124,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,ADH1A,0.0,False,0.0,0
+126,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,ADH1C,0.0,True,0.0,1
+12798012,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,mir-let7,0.0,False,0.0,0
+12798434,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,mir-184,0.0,False,0.0,0
+13162,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,Slc6a3,0.0,False,0.0,0
+13489,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Drd2,0.0,False,0.0,0
+13618,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Ednrb,0.0,False,0.0,0
+13649,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Egfr,0.0,False,0.0,0
+1385,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,CREB1,0.0,False,0.0,0
+13858,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Eps15,0.0,False,0.0,0
+14084,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Faf1,0.0,False,0.0,0
+142,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Not causal"",""score"":0.0}",0.0,Not causal,PARP1,0.0,False,0.0,0
+14783,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Grb10,0.0,False,0.0,0
+151393,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,RMDN2,0.0,False,0.0,0
+15370,D010300,Causal,0.8,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,Nr4a1,0.0,False,0.0,0
+154,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,ADRB2,0.0,False,0.0,0
+15499,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Hsf1,0.0,False,0.0,0
+15511,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Hspa1b,0.0,False,0.0,0
+156117,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Casp12,0.0,False,0.0,0
+158506,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,CBLL2,0.0,False,0.0,0
+16000,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Igf1,0.0,False,0.0,0
+16001,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Igf1r,0.0,False,0.0,0
+1609,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,DGKQ,0.0,False,0.0,0
+1616,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,DAXX,0.0,False,0.0,0
+16905,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Lmna,0.0,False,0.0,0
+16917,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Lmx1b,0.0,False,0.0,0
+170731,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Mfn2,0.0,False,0.0,0
+171221,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,DNAJB1P1,0.0,False,0.0,0
+17172,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Ascl1,0.0,False,0.0,0
+1728,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,NQO1,0.0,False,0.0,0
+1742,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,DLG4,0.0,False,0.0,0
+176816,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,pdr-1,0.0,False,0.0,0
+1769,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,DNAH8,0.0,False,0.0,0
+1791,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,DNTT,0.0,False,0.0,0
+18227,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,Nr4a2,0.0,False,0.0,0
+1855,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,DVL1,0.0,False,0.0,0
+18708,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Pik3r1,0.0,False,0.0,0
+18753,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Prkcd,0.0,False,0.0,0
+18952,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Septin4,0.0,False,0.0,0
+19122,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Prnp,0.0,False,0.0,0
+19211,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Pten,0.0,False,0.0,0
+1977,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,EIF4E,0.0,False,0.0,0
+1981,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,EIF4G1,0.0,True,0.0,1
+2020,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,EN2,0.0,False,0.0,0
+20523,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Slc25a14,0.0,False,0.0,0
+20617,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.0}",0.0,Causal,Snca,0.849458250420447,False,0.0625,0
+207,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,AKT1,0.0,False,0.0,0
+212,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,ALAS2,0.0,False,0.0,0
+21823,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,Th,0.0,False,0.0,0
+22060,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,Trp53-ps,0.0,False,0.0,0
+22223,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,Uchl1,0.0,False,0.0,0
+2235,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,FECH,0.0,False,0.0,0
+2272,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,FHIT,0.0,False,0.0,0
+227331,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Gigyf2,0.0,False,0.0,0
+22908,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,SACM1L,0.0,False,0.0,0
+2309,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,FOXO3,0.0,False,0.0,0
+23186,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,RCOR1,0.0,False,0.0,0
+23208,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,SYT11,0.0,False,0.0,0
+2332,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,FMR1,0.0,False,0.0,0
+23435,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"":""causal"",""score"":0.9999999999999999}",1.0,causal,TARDBP,0.0,False,0.0,0
+23636,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,NUP62,0.0,False,0.0,0
+24451,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Hmox1,0.0,False,0.0,0
+246744,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,STH,0.0,False,0.0,0
+2534,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,FYN,0.0,False,0.0,0
+25402,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Casp3,0.0,False,0.0,0
+25793,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,FBXO7,0.0,True,0.0,1
+2580,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,GAK,0.0,False,0.0,0
+25820,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,ARIH1,0.0,False,0.0,0
+26058,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,GIGYF2,0.942149799217388,True,0.16666666666666666,1
+2623,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,GATA1,0.0,False,0.0,0
+2624,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,GATA2,0.0,False,0.0,0
+2629,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,GBA1,0.9519337516587351,True,0.14285714285714285,1
+26417,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Mapk3,0.0,False,0.0,0
+26419,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Mapk8,0.0,False,0.0,0
+27161,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,AGO2,0.0,False,0.0,0
+27223,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Trp53bp1,0.0,False,0.0,0
+27338,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9}",0.9,Causal,UBE2S,0.0,False,0.0,0
+27429,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,HTRA2,0.0,True,0.0,1
+283514,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,SIAH3,0.0,False,0.0,0
+284058,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,KANSL1,0.0,False,0.0,0
+284069,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,FAM171A2,0.0,False,0.0,0
+2861,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,GPR37,0.0,False,0.0,0
+2870,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,GRK6,0.0,False,0.0,0
+2896,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,GRN,0.0,False,0.0,0
+29219,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,Snca,0.9696176528004614,False,0.2,0
+2932,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,GSK3B,0.0,False,0.0,0
+29545,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Uchl1,0.0,False,0.0,0
+29914,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,UBIAD1,0.0,False,0.0,0
+300160,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Lrrk2,0.0,False,0.0,0
+304342,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,Zscan21,0.0,False,0.0,0
+3093,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,UBE2K,0.0,False,0.0,0
+3105,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,HLA-A,0.0,False,0.0,0
+31607,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,Pink1,0.9028657596502344,False,0.14285714285714285,0
+3267,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,AGFG1,0.0,False,0.0,0
+3305,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,HSPA1L,0.0,False,0.0,0
+3308,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,HSPA4,0.0,False,0.0,0
+3312,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,HSPA8,0.0,False,0.0,0
+3320,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,HSP90AA1,0.0,False,0.0,0
+3326,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,HSP90AB1,0.0,False,0.0,0
+3337,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,DNAJB1,0.0,False,0.0,0
+33569,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,Thor,0.0,False,0.0,0
+3458,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,IFNG,0.0,False,0.0,0
+348,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,APOE,0.0,False,0.0,0
+34961,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,heix,0.0,False,0.0,0
+351,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,APP,0.0,False,0.0,0
+3553,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,IL1B,0.0,False,0.0,0
+3569,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,IL6,0.0,False,0.0,0
+3646,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,EIF3E,0.0,False,0.0,0
+36544,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,AGO1,0.0,False,0.0,0
+38974,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,GstO2,0.0,False,0.0,0
+38975,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,GstO1,0.0,False,0.0,0
+3902,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,LAG3,0.0,False,0.0,0
+391356,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,PTRHD1,0.0,True,0.0,1
+39143,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,ATPsynB,0.0,False,0.0,0
+39251,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Sod1,0.0,False,0.0,0
+40009,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,hid,0.0,False,0.0,0
+4009,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,LMX1A,0.0,False,0.0,0
+41025,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,p,0.0,False,0.0,0
+4137,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.0}",0.0,Causal,MAPT,0.0,True,0.0,1
+41709,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,foxo,0.0,False,0.0,0
+4216,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,MAP3K4,0.0,False,0.0,0
+4217,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,MAP3K5,0.0,False,0.0,0
+42447,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,Lrrk,0.9625631561798048,False,0.25,0
+42550,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,E2f1,0.0,False,0.0,0
+42591,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,ND-42,0.0,False,0.0,0
+4287,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,ATXN3,0.0,True,0.0,1
+43652,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,dj-1beta,0.0,False,0.0,0
+44920,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Hsp70Ab,0.0,False,0.0,0
+4540,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,ND5,0.0,False,0.0,0
+4541,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,ND6,0.0,False,0.0,0
+4549,D010300,Causal,0.8,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,RNR1,0.0,False,0.0,0
+46069,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,ATPsynG,0.0,False,0.0,0
+4665,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,NAB2,0.0,False,0.0,0
+4734,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,NEDD4,0.0,False,0.0,0
+4780,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,NFE2L2,0.0,False,0.0,0
+4790,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,NFKB1,0.0,False,0.0,0
+4841,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,NONO,0.0,False,0.0,0
+49045,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Gprk2,0.0,False,0.0,0
+4929,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.5}",0.5,Causal,NR4A2,0.9705058615316289,True,0.2727272727272727,1
+5071,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"":""Causal"",""score"":0.0}",0.0,Causal,PRKN,0.9405875767185244,True,0.15217391304347827,1
+50873,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,Prkn,0.0,False,0.0,0
+50933,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,Uchl3,0.0,False,0.0,0
+51115,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,RMDN1,0.0,False,0.0,0
+51142,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,CHCHD2,0.0,True,0.0,1
+51465,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9}",0.9,Causal,UBE2J1,0.0,False,0.0,0
+51741,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"":""Not causal"",""score"":0.0}",0.0,Not causal,WWOX,0.0,False,0.0,0
+5245,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,PHB1,0.0,False,0.0,0
+5309,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,PITX3,0.0,False,0.0,0
+5319,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,PLA2G1B,0.0,False,0.0,0
+5338,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,PLD2,0.0,False,0.0,0
+53585,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Debcl,0.0,False,0.0,0
+5413,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Not causal"",""score"":0.0}",0.0,Not causal,SEPTIN5,0.0,False,0.0,0
+54141,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Spag5,0.0,False,0.0,0
+54205,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,CYCS,0.0,False,0.0,0
+54543,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,TOMM7,0.0,False,0.0,0
+54822,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,TRPM7,0.0,True,0.0,1
+54832,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,VPS13C,0.0,True,0.0,1
+55333,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,SYNJ2BP,0.0,False,0.0,0
+55486,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,PARL,0.0,False,0.0,0
+55737,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,VPS35,0.0,True,0.0,1
+5599,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,MAPK8,0.0,False,0.0,0
+56208,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Becn1,0.0,False,0.0,0
+56484,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Foxo3,0.0,False,0.0,0
+5653,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,KLK6,0.0,False,0.0,0
+5664,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,PSEN2,0.0,False,0.0,0
+5685,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,PSMA4,0.0,False,0.0,0
+5688,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,PSMA7,0.0,False,0.0,0
+57320,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,Park7,0.0,False,0.0,0
+5861,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,RAB1A,0.0,False,0.0,0
+58918,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Casp9,0.0,False,0.0,0
+5903,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,RANBP2,0.0,False,0.0,0
+596,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,BCL2,0.0,False,0.0,0
+5970,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,RELA,0.0,False,0.0,0
+6310,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,ATXN1,0.0,False,0.0,0
+6311,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,ATXN2,0.0,True,0.0,1
+6314,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,ATXN7,0.0,False,0.0,0
+64044,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Casp8,0.0,False,0.0,0
+6421,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,SFPQ,0.0,False,0.0,0
+645,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,BLVRB,0.0,False,0.0,0
+64704,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,Htra2,0.0,False,0.0,0
+6477,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,SIAH1,0.0,False,0.0,0
+6478,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,SIAH2,0.0,False,0.0,0
+6493,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Not causal"",""score"":0.0}",0.0,Not causal,SIM2,0.0,False,0.0,0
+65018,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"":""Causal"",""score"":0.0}",0.0,Causal,PINK1,0.9296008220133033,True,0.18181818181818182,1
+6531,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,SLC6A3,0.0,True,0.0,1
+6546,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,SLC8A1,0.0,False,0.0,0
+6571,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,SLC18A2,0.0,True,0.0,1
+6622,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"":""causal"",""score"":0.0}",0.0,causal,SNCA,0.9104393125943286,True,0.11,1
+6647,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,SOD1,0.0,False,0.0,0
+66725,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,Lrrk2,0.0,False,0.0,0
+67273,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,Ndufa10,0.0,False,0.0,0
+67847,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Sncaip,0.0,False,0.0,0
+683,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,BST1,0.0,False,0.0,0
+68350,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"":""Not causal"",""score"":0.0}",0.0,Not causal,Mul1,0.0,False,0.0,0
+68943,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,Pink1,0.0,False,0.0,0
+6908,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,TBP,0.0,True,0.0,1
+7052,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,TGM2,0.0,False,0.0,0
+7054,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,TH,0.0,False,0.0,0
+7082,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,TJP1,0.0,False,0.0,0
+7124,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,TNF,0.0,False,0.0,0
+7157,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,TP53,0.0,False,0.0,0
+7189,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,TRAF6,0.0,False,0.0,0
+724066,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,ATXN8,0.0,False,0.0,0
+72512,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,Sting1,0.0,False,0.0,0
+72685,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Dnajc6,0.0,False,0.0,0
+7295,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,TXN,0.0,False,0.0,0
+7325,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,UBE2E2,0.0,False,0.0,0
+7327,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9}",0.9,Causal,UBE2G2,0.0,False,0.0,0
+7329,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9}",0.9,Causal,UBE2I,0.0,False,0.0,0
+7332,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,UBE2L3,0.0,False,0.0,0
+7345,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,UCHL1,0.0,True,0.0,1
+7384,D010300,Not causal,0.050000000000000044,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Not causal"", ""score"": 1.0}",0.0,Not causal,UQCRC1,0.0,True,0.0,1
+74011,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Slc25a27,0.0,False,0.0,0
+7402,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,UTRN,0.0,False,0.0,0
+7416,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,VDAC1,0.0,False,0.0,0
+7431,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"":""Causal"",""score"":0.9999999999999999}",1.0,Causal,VIM,0.0,False,0.0,0
+7589,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,ZSCAN21,0.0,False,0.0,0
+773,D010300,Causal,0.85,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,CACNA1A,0.0,False,0.0,0
+79594,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,MUL1,0.0,False,0.0,0
+7965,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,AIMP2,0.0,False,0.0,0
+801,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,CALM1,0.0,False,0.0,0
+8013,D010300,Not causal,0.19999999999999996,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,NR4A3,0.0,False,0.0,0
+83493,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,Sacm1l,0.0,False,0.0,0
+836,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,CASP3,0.0,False,0.0,0
+8398,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"":""causal"",""score"":0.9999999999999999}",1.0,causal,PLA2G6,0.0,True,0.0,1
+840,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,CASP7,0.0,False,0.0,0
+842,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,CASP9,0.0,False,0.0,0
+8454,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,CUL1,0.0,False,0.0,0
+847,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,CAT,0.0,False,0.0,0
+84749,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,USP30,0.0,False,0.0,0
+850505,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,YPT1,0.0,False,0.0,0
+850620,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,UBI4,0.0,False,0.0,0
+853902,D010300,Causal,0.8,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.8
+}","{""relationship"": ""Not causal"", ""score"": 0.0}",0.0,Not causal,SPO14,0.0,False,0.0,0
+856862,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,RSP5,0.0,False,0.0,0
+8851,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,CDK5R1,0.0,False,0.0,0
+8867,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,SYNJ1,0.0,True,0.0,1
+8878,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,SQSTM1,0.0,False,0.0,0
+9246,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"":""Not causal"",""score"":0.0}",0.0,Not causal,UBE2L6,0.0,False,0.0,0
+9481,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,SLC25A27,0.0,False,0.0,0
+9529,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,BAG5,1.0,False,1.0,0
+9530,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,BAG4,0.0,False,0.0,0
+9627,D010300,Causal,0.9,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,SNCAIP,0.0,False,0.0,0
+9759,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,HDAC4,0.0,False,0.0,0
+9804,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,TOMM20,0.0,False,0.0,0
+9817,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,KEAP1,0.0,False,0.0,0
+9829,D010300,Causal,0.95,"{
+  ""relationship"": ""Causal"",
+  ""confidence"": 0.95
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,DNAJC6,0.9838683843551179,True,0.4,1
+9868,D010300,Not causal,0.09999999999999998,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.9
+}","{""relationship"": ""Causal"", ""score"": 0.9}",0.9,Causal,TOMM70,0.0,False,0.0,0
+9927,D010300,Not causal,0.15000000000000002,"{
+  ""relationship"": ""Not causal"",
+  ""confidence"": 0.85
+}","{""relationship"": ""Causal"", ""score"": 0.9999999999999999}",1.0,Causal,MFN2,0.0,False,0.0,0
