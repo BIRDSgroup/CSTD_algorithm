@@ -156,7 +156,7 @@ This notebook runs LLM inference for Parkinson's Disease gene-disease pairs.
 
 **Note**: If data files are in a different location, update the `DATA_PATH` variable in the notebook.
 
-**##License**
+## License
 
 Copyright 2025 BIRDS Group, IIT Madras
 
